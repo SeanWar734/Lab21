@@ -67,9 +67,12 @@ footer{
   position: fixed;
   top: 0;
   width: 100%
-  background-color:
 }
 
 .title {
 	background-color: gray;
+}
+
+.padded {
+	padding-top:20%;
 }
